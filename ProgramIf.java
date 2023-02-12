@@ -9,7 +9,7 @@
  *Date: 12/February/2023
  *Time: 20:25 - 20:31
  *
- *Version(0.5)
+ *Version(0.6)
  */
 
 import java.util.Scanner;
