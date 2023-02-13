@@ -3,7 +3,7 @@
  *
  *@muhasrulmulis(IG)
  *
- *Program Array Java Sederhana
+ *Program Java Sederhana
  *Name: Muh. Asrul Mulis
  *Date: 10/Februari/2023
  *
