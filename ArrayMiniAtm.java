@@ -5,7 +5,7 @@
  *
  *Program Array Java Sederhana
  *Name: Muh. Asrul Mulis
- *Date: 16/February/2003
+ *Date: 16/February/2023
  *
  *Version(11.0)
  */
